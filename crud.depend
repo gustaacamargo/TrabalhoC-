@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1567729705 source:c:\users\gusta\desktop\c++\crud\src\pessoa.cpp
+	"Pessoa.h"
+	<string>
+
+1567729549 c:\users\gusta\desktop\c++\crud\include\pessoa.h
+	<string>
+
+1567951978 source:c:\users\gusta\desktop\c++\crud\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	"Pessoa.h"
+	"ManterPessoa.h"
+
+1567951841 source:c:\users\gusta\desktop\c++\crud\src\manterpessoa.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	"ManterPessoa.h"
+	"Pessoa.h"
+
+1567951426 c:\users\gusta\desktop\c++\crud\include\manterpessoa.h
+	"Pessoa.h"
+	<string>
+
